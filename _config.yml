@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Simple Map Website
+description: This website demonstrates how to easily publish and display an interactive map made with Folium.
+logo: https://upload.wikimedia.org/wikipedia/commons/3/3f/UPVD_Logo_2023.jpg
